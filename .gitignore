@@ -1,2 +1,5 @@
 *.pdf
 *.csv
+*.json
+/IGNORE/
+/data/
